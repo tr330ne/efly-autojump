@@ -1,0 +1,14 @@
+{
+  "Plugin-Class": "dev.treeone.EFlyAutoJumpPlugin",
+  "Name": "EFlyAutoJump",
+  "Version": "${plugin_version}",
+  "Description": "Helper module that replaces the non-functional baritone's #elytraAutoJump by performing repeated jumps when #elytra is activated, allowing continuous flight even after touching the ground, and deactivates on #stop.",
+  "Authors": [
+    "TreeOne"
+  ],
+  "Minecraft-Versions": [
+    "1.21.1",
+    "1.21.3",
+    "1.21.4"
+  ]
+}
