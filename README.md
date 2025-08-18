@@ -1,4 +1,4 @@
-# EFlyAutoJump [1.21.1-1.21.5]
+# EFlyAutoJump [1.21.1-1.21.4]
 Enhances Baritone elytra flight with smart auto-jump start/stop and visual display, compatible with Xaero Plus "Baritone Elytra Here", also supports manual Baritone commands input in addition to automation.
 
 <img width="563" height="43" alt="Screenshot_1" src="https://github.com/user-attachments/assets/c43c287a-901e-49b5-a44b-2d0d2600e061" />

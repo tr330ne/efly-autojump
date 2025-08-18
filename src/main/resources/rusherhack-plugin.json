@@ -1,8 +1,8 @@
 {
-  "Plugin-Class": "dev.treeone.EFlyAutoJumpPlugin",
-  "Name": "EFlyAutoJump",
-  "Version": "${plugin_version}",
-  "Description": "RusherHack helper module that replaces the non-functional baritone's #elytraAutoJump by performing repeated jumps when #elytra is activated, allowing continuous flight even after touching the ground, and deactivates on #stop.",
+  "Plugin-Class": "treeone.eflyautojump.EFlyAutoJumpPlugin",
+  "Name": "${project.plugin_name}",
+  "Version": "${project.plugin_version}",
+  "Description": "Enhances Baritone elytra flight with smart auto-jump start/stop and visual display, compatible with Xaero Plus “Baritone Elytra Here”, also supports manual Baritone commands input in addition to automation.",
   "Authors": [
     "TreeOne"
   ],
@@ -10,5 +10,8 @@
     "1.21.1",
     "1.21.3",
     "1.21.4"
+  ],
+  "Mixin-Configs": [
+    "mixins.eflyautojump.json"
   ]
 }
